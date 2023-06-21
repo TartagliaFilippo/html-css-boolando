@@ -102,6 +102,45 @@ main {
   background-size: contain;
 }
 
+.image * {
+  display: inline-block;
+  color: white;
+}
+
+.discount {
+  background-color: red;
+
+  left: 0px;
+  bottom: 35px;
+}
+
+.sust {
+  background-color: #008000;
+  left: 35px;
+  bottom: 35px;
+}
+
+.image div:last-child {
+  height: 35px;
+  width: 35px;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  background-color: white;
+
+  right: 0px;
+  top: 10px;
+}
+
+.price {
+  font-weight: bold;
+  color: red;
+}
+
+.r-price {
+  text-decoration: line-through;
+}
+
 /* FIRST CARD */
 .image {
   background-image: url(../img/1.webp);
