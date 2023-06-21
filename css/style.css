@@ -236,7 +236,15 @@ footer * {
 
 /* L-FOOT */
 
+.l-foot {
+  margin-top: 35px;
+}
+
 /* R-FOOT */
+
+.r-foot {
+  margin-top: 35px;
+}
 
 /* DEBUG */
 
