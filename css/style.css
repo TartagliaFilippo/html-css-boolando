@@ -25,6 +25,10 @@
   justify-content: space-between;
 }
 
+.align-center {
+  align-items: center;
+}
+
 .relative {
   position: relative;
 }
@@ -42,4 +46,18 @@ header {
   background-color: #ff6900;
   position: fixed;
   z-index: 10;
+}
+
+header .container * {
+  color: white;
+}
+
+/* GENDER */
+
+ul {
+  list-style: none;
+}
+
+li > a {
+  text-decoration: none;
 }
