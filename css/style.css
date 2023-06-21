@@ -222,6 +222,22 @@ p {
   bottom: 35px;
 }
 
+/* FOOTER */
+
+footer {
+  height: 120px;
+  width: 100%;
+  background-color: #1a1a1a;
+}
+
+footer * {
+  color: white;
+}
+
+/* L-FOOT */
+
+/* R-FOOT */
+
 /* DEBUG */
 
 .debug {
