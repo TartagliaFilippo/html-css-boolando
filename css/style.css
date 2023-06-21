@@ -112,6 +112,10 @@ main {
   color: white;
 }
 
+h2 {
+  font-size: 17px;
+}
+
 .discount {
   background-color: red;
   font-size: 0.75rem;
@@ -157,6 +161,7 @@ p {
 .image.first {
   background-image: url(../img/1.webp);
 }
+
 .first .discount {
   left: 0px;
   bottom: 35px;
@@ -172,14 +177,34 @@ p {
   background-image: url(../img/2.webp);
 }
 
+.second .discount {
+  left: 0px;
+  bottom: 35px;
+}
+
 /* THIRD CARD */
 .image.third {
   background-image: url(../img/3.webp);
 }
 
+.third .discount {
+  left: 0px;
+  bottom: 35px;
+}
+
 /* FOURTH CARD */
 .image.fourth {
   background-image: url(../img/4.webp);
+}
+
+.fourth .discount {
+  left: 0px;
+  bottom: 35px;
+}
+
+.fourth .sust {
+  left: 47px;
+  bottom: 35px;
 }
 
 /* FIFTH CARD */
@@ -190,6 +215,11 @@ p {
 /* SIXTH CARD */
 .image.sixth {
   background-image: url(../img/6.webp);
+}
+
+.sixth .sust {
+  left: 0px;
+  bottom: 35px;
 }
 
 /* DEBUG */
