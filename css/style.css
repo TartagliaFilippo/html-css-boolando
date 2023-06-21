@@ -98,6 +98,7 @@ main {
 .card {
   height: 600px;
   width: 350px;
+  margin-top: 30px;
 }
 
 .card .image {
@@ -113,6 +114,9 @@ main {
 
 .discount {
   background-color: red;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 4px 8px;
 
   left: 0px;
   bottom: 35px;
@@ -120,14 +124,18 @@ main {
 
 .sust {
   background-color: #008000;
-  left: 35px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 4px 8px;
+
+  left: 47px;
   bottom: 35px;
 }
 
 .image div:last-child {
-  height: 35px;
-  width: 35px;
-  font-size: 30px;
+  height: 40px;
+  width: 40px;
+  font-size: 35px;
   text-align: center;
   color: black;
   background-color: white;
@@ -136,12 +144,18 @@ main {
   top: 10px;
 }
 
+p {
+  font-size: 0.75rem;
+}
+
 .price {
+  font-size: 0.75rem;
   font-weight: bold;
   color: red;
 }
 
 .r-price {
+  font-size: 0.75rem;
   text-decoration: line-through;
 }
 
