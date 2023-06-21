@@ -98,6 +98,7 @@ main {
 .card {
   width: 350px;
   margin-top: 30px;
+  padding-bottom: 30px;
 }
 
 .card .image {
@@ -159,8 +160,33 @@ p {
 }
 
 /* FIRST CARD */
-.image {
+.image.first {
   background-image: url(../img/1.webp);
+}
+
+/* SECOND CARD */
+.image.second {
+  background-image: url(../img/2.webp);
+}
+
+/* THIRD CARD */
+.image.third {
+  background-image: url(../img/3.webp);
+}
+
+/* FOURTH CARD */
+.image.fourth {
+  background-image: url(../img/4.webp);
+}
+
+/* FIFTH CARD */
+.image.fifth {
+  background-image: url(../img/5.webp);
+}
+
+/* SIXTH CARD */
+.image.sixth {
+  background-image: url(../img/6.webp);
 }
 
 /* DEBUG */
