@@ -29,6 +29,10 @@
   align-items: center;
 }
 
+.wrap {
+  flex-wrap: wrap;
+}
+
 .relative {
   position: relative;
 }
@@ -80,4 +84,20 @@ li > a {
 i {
   font-size: 16px;
   margin-right: 5px;
+}
+
+/* MAIN */
+main {
+  padding-top: 70px;
+}
+
+.card {
+  height: 700px;
+  width: 350px;
+}
+
+/* DEBUG */
+
+.debug {
+  border: 2px solid black;
 }
