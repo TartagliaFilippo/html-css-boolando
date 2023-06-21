@@ -240,10 +240,27 @@ footer * {
   margin-top: 35px;
 }
 
+h3 {
+  margin-bottom: 8px;
+}
+
+.l-foot > span {
+  font-size: 0.9rem;
+  margin-right: 10px;
+}
+
 /* R-FOOT */
 
 .r-foot {
   margin-top: 35px;
+}
+
+h4 {
+  margin-bottom: 5px;
+}
+
+.social > span > i {
+  font-size: 24px;
 }
 
 /* DEBUG */
