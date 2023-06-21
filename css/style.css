@@ -289,8 +289,14 @@ h4 {
   background-image: url(../img/6b.webp);
 }
 
+/* HOVER HEART */
+
+div .heart:hover {
+  color: red;
+}
+
 /* DEBUG */
 
-.debug {
+/* .debug {
   border: 2px solid black;
-}
+} */
