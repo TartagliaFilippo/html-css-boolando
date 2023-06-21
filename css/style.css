@@ -10,6 +10,7 @@
 
 .container {
   max-width: 1180px;
+  margin: 0 auto;
 }
 
 .flex {
@@ -33,3 +34,12 @@
 }
 
 /* STRUCTURE */
+
+/* HEADER */
+header {
+  height: 70px;
+  width: 100%;
+  background-color: #ff6900;
+  position: fixed;
+  z-index: 10;
+}
