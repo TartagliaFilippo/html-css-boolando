@@ -92,8 +92,19 @@ main {
 }
 
 .card {
-  height: 700px;
+  height: 600px;
   width: 350px;
+}
+
+.card .image {
+  height: 500px;
+  width: 350px;
+  background-size: contain;
+}
+
+/* FIRST CARD */
+.image {
+  background-image: url(../img/1.webp);
 }
 
 /* DEBUG */
