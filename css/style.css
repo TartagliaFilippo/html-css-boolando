@@ -48,8 +48,12 @@ header {
   z-index: 10;
 }
 
-header .container * {
+.container .header * {
   color: white;
+}
+
+.header {
+  margin-top: 15px;
 }
 
 /* GENDER */
