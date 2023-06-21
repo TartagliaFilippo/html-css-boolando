@@ -48,7 +48,7 @@ header {
   z-index: 10;
 }
 
-.container .header * {
+.container.header * {
   color: white;
 }
 
@@ -63,11 +63,12 @@ ul {
 
 li > a {
   text-decoration: none;
+  margin-left: 10px;
 }
 
 /* LOGO */
 .logo {
-  height: 40px;
+  height: 35px;
 }
 
 .logo img {
@@ -77,5 +78,6 @@ li > a {
 /* ITEMS */
 
 i {
-  font-size: 20px;
+  font-size: 16px;
+  margin-right: 5px;
 }
