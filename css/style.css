@@ -263,6 +263,32 @@ h4 {
   font-size: 24px;
 }
 
+/* HOVER */
+
+.card .first:hover {
+  background-image: url(../img/1b.webp);
+}
+
+.card .second:hover {
+  background-image: url(../img/2b.webp);
+}
+
+.card .third:hover {
+  background-image: url(../img/3b.webp);
+}
+
+.card .fourth:hover {
+  background-image: url(../img/4b.webp);
+}
+
+.card .fifth:hover {
+  background-image: url(../img/5b.webp);
+}
+
+.card .sixth:hover {
+  background-image: url(../img/6b.webp);
+}
+
 /* DEBUG */
 
 .debug {
