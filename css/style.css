@@ -112,26 +112,6 @@ main {
   color: white;
 }
 
-.discount {
-  background-color: red;
-  font-size: 0.75rem;
-  font-weight: bold;
-  padding: 4px 8px;
-
-  left: 0px;
-  bottom: 35px;
-}
-
-.sust {
-  background-color: #008000;
-  font-size: 0.75rem;
-  font-weight: bold;
-  padding: 4px 8px;
-
-  left: 47px;
-  bottom: 35px;
-}
-
 .image div:last-child {
   height: 40px;
   width: 40px;
@@ -162,6 +142,25 @@ p {
 /* FIRST CARD */
 .image.first {
   background-image: url(../img/1.webp);
+}
+.first .discount {
+  background-color: red;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 4px 8px;
+
+  left: 0px;
+  bottom: 35px;
+}
+
+.first .sust {
+  background-color: #008000;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 4px 8px;
+
+  left: 47px;
+  bottom: 35px;
 }
 
 /* SECOND CARD */
