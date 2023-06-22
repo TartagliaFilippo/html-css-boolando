@@ -134,12 +134,15 @@ h2 {
   height: 40px;
   width: 40px;
   font-size: 35px;
+  line-height: 40px;
   text-align: center;
   color: black;
   background-color: white;
 
   right: 0px;
   top: 10px;
+
+  cursor: pointer;
 }
 
 p {
